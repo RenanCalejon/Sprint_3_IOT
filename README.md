@@ -12,7 +12,7 @@ A Station é uma plataforma online de e-commerce de venda de  produtos com a int
  + E foi Implementado com a instalação da biblioteca OpenAI usando o comando "pip install openai".
 
 
-### Abaixo Segue a API Usada 👇
+### Abaixo segue a nossa API  👇
 
 <h1 align="center">API Station</h1>
 
